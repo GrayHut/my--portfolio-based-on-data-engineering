@@ -42,8 +42,8 @@ npm run dev
 
 This project is built with:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+- **Vite:** is a modern build tool and development server designed for fast and efficient frontend development.
+- **TypeScript:** TypeScript is a superset of JavaScript that adds static typing to enhance code reliability and maintainability.
+- **React:** React is a JavaScript library for building user interfaces, particularly single-page applications (SPAs) with reusable components.
+- **shadcn-ui:** Shadcn UI is a collection of reusable, customizable React components built on top of Radix UI and styled with Tailwind CSS.
+- **Tailwind CSS:** Tailwind CSS is a utility-first CSS framework for rapid and responsive styling using predefined classes.
